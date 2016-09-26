@@ -1,0 +1,144 @@
+/*
+Project Name: Relaxr
+Client: Your Client
+Author: Elan Telem
+Developer @GA in NYC
+*/
+
+
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/******************************************
+/* BASE STYLES  styling links... a: link {}
+/*******************************************/
+
+body {
+	text-align: center;
+	
+}
+
+div.one {
+	padding-top: 70px;
+	background-image: url("../images/header_bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+}
+
+div.one header {
+	padding-top: 20px;
+	text-align: left;
+	color: white;
+}
+
+div.one span {
+	font-size: 26px;
+	background-color: yellow;
+
+}
+
+div.one h1 {
+	color: white;
+}
+
+header {
+	font-weight: 800;
+	font-size: 48px;
+}
+
+
+ul {
+	font-size: 26px;
+}
+
+div.benefits h2 {
+	width: 400px;
+}
+
+div.benefits p {
+	display: inline;
+}
+
+div.benefits {
+	height: 300px;
+	width: 100%;
+	background-color: #f0efef;
+	background-size: cover;
+	font-size: 26px;
+	display: inline-block;
+}
+
+div.benefits ul {
+	margin-left: 100px;
+	text-align: left;
+}
+
+div.quote {
+	padding-top: 30px;
+	font-size: 36px;
+	height: 400px;
+	font-weight: lighter;
+	background-image: url("../images/testimonial_bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-style: italic;
+	text-align: center;
+}
+
+div.quote p {
+	color: white;
+}
+
+div.sign-up {
+	padding-top: 20px;
+	height: 80px;
+	background-color: #f9e42e;
+	font-size: 24;
+	color: white;
+}
+
+span {
+	background-color: blue;
+	margin: 0px auto;
+	font-size: 24px;
+	color: white;
+}
+
+div.sign-up a {
+	color: white;
+}
+
+div.bottom {
+	background-color: gray;
+	padding-top: 10px;
+	height: 100px;
+}
+
+div.bottom a {
+	padding-top: 50px;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+
+
+
